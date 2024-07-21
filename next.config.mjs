@@ -5,6 +5,7 @@ const nextConfig = {
       dynamic: 10,
     },
   },
+  serverExternalPackages: ["@node-rs/argon2"],
 };
 
 export default nextConfig;
